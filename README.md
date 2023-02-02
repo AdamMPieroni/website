@@ -1,5 +1,7 @@
 # website
 Test Website
 
+<html>
+- [home](./header.html)
 
-- [home](./header.php)
+</html>
