@@ -117,8 +117,6 @@ td {
 .column {
   float: center;
   width: 33.3%;
-  margin-left: 10px;
-  margin-right: 10px;
   margin-bottom: 16px;
   padding: 0 8px;
 }
