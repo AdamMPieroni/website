@@ -15,7 +15,7 @@ p {
 }
 
 body {
-	background-color: #82828F;
+	background-color: #000000;
 }
 table {
   margin: .3em;
@@ -147,7 +147,7 @@ td {
 }
 
 .title {
-  color: grey;
+  color: #000000;
 }
 
 .button {
