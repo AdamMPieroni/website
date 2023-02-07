@@ -142,7 +142,7 @@ td {
 }
 
 .title {
-  color: grey;
+  color: white;
 }
 
 .button {
@@ -163,8 +163,6 @@ td {
 
 .avatar {
   vertical-align: middle;
-  width: 200px;
-  height: 200px;
   border-radius: 50%;
 }
 
